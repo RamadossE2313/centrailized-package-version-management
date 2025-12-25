@@ -1,8 +1,0 @@
-﻿<Project>
-	<PropertyGroup>
-		<TargetFramework>net8.0</TargetFramework>
-		<Nullable>enable</Nullable>
-		<ImplicitUsings>enable</ImplicitUsings>
-		<RootNamespace>centrailized_package_version_management</RootNamespace>
-	</PropertyGroup>
-</Project>
